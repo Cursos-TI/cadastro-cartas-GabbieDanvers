@@ -49,9 +49,9 @@ int main() {
   printf("Código: %s\n", código);
   printf("Nome da cidade: %s\n", cidade);
   printf("População: %i\n", população);
-  printf("Área: %.0f\n", área);
-  printf("PIB: R$ %.0f\n", PIB);
-  printf("Número de pontos turísticos: %i \n", pontoturístico);
+  printf("Área: %.2f\n", área);
+  printf("PIB: R$ %.2f\n", PIB);
+  printf("Número de pontos turísticos: %i\n", pontoturístico);
 
   //gravando as variáveis da carta 2
   
@@ -98,8 +98,8 @@ int main() {
   printf("Código: %s\n", código2);
   printf("Nome da cidade:%s\n", cidade2);
   printf("População: %i\n", população2);
-  printf("Área: %.0f\n", área2);
-  printf("PIB: R$ %.0f\n", PIB2);
+  printf("Área: %.2f\n", área2);
+  printf("PIB: R$ %.2f\n", PIB2);
   printf("Número de pontos turísticos: %i\n", pontoturístico2);
 
 
